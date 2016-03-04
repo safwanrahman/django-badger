@@ -8,7 +8,7 @@ except ImportError:
 
 setup(
     name='django-badger',
-    version='0.0.1',
+    version='0.0.2',
     description='Django app for managing and awarding badgers',
     long_description=open('README.rst').read(),
     author='Leslie Michael Orchard',
